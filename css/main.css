@@ -1,0 +1,45 @@
+ol li {
+    font-size: 1.8rem;
+}
+
+ol li p {
+  font-size: 1rem;
+}
+
+ul li {
+  font-size: 1rem;
+}
+
+.display-1 {
+  margin: .5em 0;
+}
+
+#navbar {
+  padding-bottom: 3em;
+}
+
+#navbar .btn {
+  width: 100%;
+  text-align: left;
+  margin-top: .5em;
+}
+
+@media (min-width: 48em) {
+
+  #navbar .btn {
+    text-align: center;
+  }
+
+}
+
+#intro {
+  background-color: #4D8FA4;
+
+  padding-top: 2em;
+  /* padding-right: 11em; */
+  padding-bottom: 2em;
+  /* padding-left: 11em; */
+  /* margin-left: -11em; */
+  /* margin-right: -11em; */
+
+}
