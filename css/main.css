@@ -1,9 +1,11 @@
 ol li {
     font-size: 1.8rem;
+    color: #379;
 }
 
 ol li p {
   font-size: 1rem;
+  color: #000
 }
 
 ul li {
@@ -13,6 +15,7 @@ ul li {
 .display-1 {
   margin: .5em 0;
 }
+
 
 #navbar {
   padding-bottom: 3em;
@@ -33,7 +36,7 @@ ul li {
 }
 
 #intro {
-  background-color: #4D8FA4;
+  background-color: #379;
 
   padding-top: 2em;
   /* padding-right: 11em; */
@@ -42,4 +45,16 @@ ul li {
   /* margin-left: -11em; */
   /* margin-right: -11em; */
 
+}
+
+h3 {
+  color:#379;
+}
+
+ul li {
+  color: #000;
+}
+
+ul {
+  padding-bottom: .5em;
 }
