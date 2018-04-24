@@ -1,3 +1,11 @@
+img {
+  width: 100%
+}
+
+figcaption {
+  text-align: right;
+}
+
 ol li {
     font-size: 1.8rem;
     color: #379;
@@ -57,4 +65,8 @@ ul li {
 
 ul {
   padding-bottom: .5em;
+}
+
+@font-face {
+  font-family: Arial, Trebuchet, Verdana, Helvetica;
 }
